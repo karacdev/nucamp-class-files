@@ -21,7 +21,7 @@ header h2{
 
 .jumbotron {
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     color: white;
     margin: 0;
 }
@@ -33,7 +33,7 @@ header h2{
 }
 
 .navbar {
-    background-color: #901CAD;
+    background-color: #38bff5;
 }
 
 
